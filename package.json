@@ -1,7 +1,7 @@
 {
   "name": "gatsby-plugin-netlify-functions",
   "description": "A Gatsby plugin build and run Netlify functions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "Porfírio Ribeiro <porfirioribeiro@gmail.com>",
   "bugs": {
     "url": "https://github.com/porfirioribeiro/gatsby-plugin-netlify-functions/issues"
