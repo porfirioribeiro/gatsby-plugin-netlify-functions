@@ -84,7 +84,7 @@ exports.onCreateDevServer = (
       httpMethod: req.method,
       queryStringParameters: req.query || {},
       headers: req.headers,
-      body: isBase64 ? base64.encode(req.body) : res.body,
+      body: isBase64 ? base64.encode(req.body) : req.body,
       isBase64Encoded: isBase64,
     };
 
