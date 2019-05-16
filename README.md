@@ -34,7 +34,7 @@ Directory of the source of functions
 
 (_required_, default: `undefined`)
 
-Directory where to put builded functions
+Directory where to put built functions
 
 ```javascript
 plugins: [
