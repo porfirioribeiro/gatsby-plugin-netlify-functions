@@ -1,5 +1,7 @@
 # gatsby-plugin-netlify-functions
 
+***With the release of [netlify dev](https://github.com/netlify/cli/blob/master/docs/netlify-dev.md) this package should be used anymore.***
+
 Netlify Functions allow you to run AWS Lambda functions.
 
 For more details, check out the [docs site](https://www.netlify.com/docs/functions/).
